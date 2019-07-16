@@ -1,0 +1,17 @@
+{ Using PSTWRITER 16.6.0 d001Jul-16-2019 at 16:41:34 }
+
+#1 WARNING(ORCAP-36006): Part Name "ATMEGA48-MLF32_0_MY_ATMEGA328P_ATMEGA48-MLF32" is renamed to "ATMEGA48-MLF32_0_MY_ATMEGA328P_".
+#2 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#3" as visible power pin of same name already exists in Package ATmega48-MLF32_0 , IC1: SCHEMATIC1, PAGE1 (1.30, 2.40).
+#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package ATmega48-MLF32_0 , IC1: SCHEMATIC1, PAGE1 (1.30, 2.40).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package ATmega48-MLF32_0 , IC1: SCHEMATIC1, PAGE1 (1.30, 2.40).
+#5 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#5" as visible power pin of same name already exists in Package ATmega48-MLF32_0 , IC1: SCHEMATIC1, PAGE1 (1.30, 2.40).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\USER\DESKTOP\WORKSPACE\MY_FT232\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORKSPACE\MY_FT232\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORKSPACE\MY_FT232\allegro/pstxprt.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORKSPACE\MY_FT232\allegro/pstxnet.dat
+packaging the design view...

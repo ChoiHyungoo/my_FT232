@@ -1,0 +1,339 @@
+\t (00:00:10) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:10)     Journal start - Tue Jul 16 16:41:48 2019
+\t (00:00:10)         Host=USER-PC User=user Pid=4764 CPUs=4
+\t (00:00:10) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORKSPACE\MY_FT232\allegro\FT232.brd
+\t (00:00:10) 
+   (00:00:10) ilinit Start.
+   (00:00:10) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:10) Opening existing design...
+\d (00:00:10) Design opened: C:/USERS/USER/DESKTOP/WORKSPACE/MY_FT232/allegro/FT232.brd
+\i (00:00:11) trapsize 10372
+\i (00:00:11) trapsize 10186
+\i (00:00:11) trapsize 10404
+\i (00:00:11) trapsize 10599
+\i (00:00:11) trapsize 9189
+\i (00:00:11) trapsize 13682
+\i (00:00:12) generaledit 
+\i (00:00:13) pick grid 13544.78 11519.90
+\t (00:00:13) last pick:  13500.00 11500.00
+\i (00:00:13) pick grid dbl 13544.78 11519.90
+\t (00:00:13) last pick:  13500.00 11500.00
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 18388.06 9029.85
+\i (00:00:14) trapsize 6841
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 17883.08 9029.86
+\i (00:00:14) trapsize 3420
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 17883.08 9029.86
+\i (00:00:14) trapsize 1710
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 17872.83 9043.54
+\i (00:00:15) trapsize 855
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 17889.94 9072.62
+\i (00:00:15) trapsize 1710
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 17889.93 9076.04
+\i (00:00:15) trapsize 3420
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 17889.93 9076.04
+\i (00:00:15) trapsize 1710
+\i (00:00:15) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 17889.93 9076.04
+\i (00:00:16) trapsize 855
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 17889.94 9076.04
+\i (00:00:16) trapsize 428
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 17893.36 9079.46
+\i (00:00:16) trapsize 214
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 17893.37 9079.47
+\i (00:00:16) trapsize 107
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 17893.37 9079.47
+\i (00:00:16) trapsize 53
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 17893.37 9079.47
+\i (00:00:16) trapsize 27
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 17893.37 9079.48
+\i (00:00:16) trapsize 53
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 17893.38 9079.58
+\i (00:00:16) trapsize 107
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 17892.95 9080.22
+\i (00:00:17) trapsize 53
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 17892.95 9080.22
+\i (00:00:17) trapsize 27
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 17892.95 9080.22
+\i (00:00:17) trapsize 13
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 17892.96 9080.22
+\i (00:00:18) trapsize 27
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 17892.95 9080.22
+\i (00:00:18) trapsize 53
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 17892.63 9080.54
+\i (00:00:18) trapsize 107
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 17892.42 9081.17
+\i (00:00:18) trapsize 214
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 17891.57 9081.61
+\i (00:00:19) trapsize 107
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 17891.58 9081.61
+\i (00:00:19) trapsize 53
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 17891.58 9081.61
+\i (00:00:19) trapsize 27
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 17891.58 9081.61
+\i (00:00:20) trapsize 53
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 17891.58 9081.61
+\i (00:00:21) trapsize 107
+\i (00:03:14) pick grid 17789.20 9108.77
+\t (00:03:14) last pick:  17800.00 9100.00
+\i (00:03:16) place manual 
+\i (00:03:19) setwindow form.plc_manual
+\i (00:03:19) FORM plc_manual advanced_settings  
+\i (00:03:20) FORM plc_manual library YES 
+\i (00:03:21) FORM plc_manual placement_list  
+\i (00:03:23) FORM plc_manual categories Package symbols 
+\i (00:03:30) FORM plc_manual tree 'MULTISEL YES' MY_ATMEGA328P 'Package symbols' 
+\w (00:03:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:31) FORM plc_manual tree  MY_ATMEGA328P 'Package symbols' 
+\i (00:03:31) FORM plc_manual hide  
+\i (00:03:32) setwindow pcb
+\i (00:03:32) pick grid 17907.40 9051.69
+\t (00:03:32) last pick:  17900.00 9100.00
+\i (00:03:33) zoom out 1 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom out 17896.29 9102.57
+\i (00:03:33) trapsize 214
+\i (00:03:33) zoom out 1 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom out 17896.29 9102.56
+\i (00:03:33) trapsize 428
+\i (00:03:33) zoom out 1 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom out 17896.28 9102.57
+\i (00:03:33) trapsize 855
+\i (00:03:33) zoom out 1 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom out 17896.29 9102.57
+\i (00:03:33) trapsize 1710
+\i (00:03:34) Esc 
+\i (00:03:34) pick grid 18751.31 9078.62
+\t (00:03:34) last pick:  18800.00 9100.00
+\i (00:03:35) Esc 
+\i (00:03:35) Esc 
+\i (00:03:36) prepopup 18450.34 9205.17
+\i (00:03:37) oops 
+\t (00:03:37) last pick:  17900.00 9100.00
+\i (00:03:37) pick grid 18450.34 9205.17
+\t (00:03:37) last pick:  18500.00 9200.00
+\i (00:03:38) prepopup 18840.23 9229.11
+\i (00:03:39) done 
+\i (00:03:39) generaledit 
+\i (00:03:39) pick grid 18843.65 9400.11
+\t (00:03:39) last pick:  18800.00 9400.00
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 18867.59 9413.79
+\i (00:03:40) trapsize 855
+\i (00:03:42) drag_start grid 18882.98 9499.29
+\i (00:03:42) drag_stop 18084.39 8825.53
+\i (00:03:42) pick grid 19491.76 9051.26
+\t (00:03:42) last pick:  19500.00 9100.00
+\i (00:09:28) pick grid 17400.37 9140.18
+\t (00:09:28) last pick:  17400.00 9100.00
+\i (00:13:13) zoom out 1 
+\i (00:13:13) setwindow pcb
+\i (00:13:13) zoom out 18306.70 8683.60
+\i (00:13:13) trapsize 1710
+\i (00:13:13) zoom out 1 
+\i (00:13:13) setwindow pcb
+\i (00:13:13) zoom out 18313.52 8779.36
+\i (00:13:13) trapsize 3420
+\i (00:13:14) zoom in 1 
+\i (00:13:14) setwindow pcb
+\i (00:13:14) zoom in 18293.01 8786.20
+\i (00:13:14) trapsize 1710
+\i (00:13:14) zoom in 1 
+\i (00:13:14) setwindow pcb
+\i (00:13:14) zoom in 18293.01 8786.20
+\i (00:13:14) trapsize 855
+\i (00:14:55) drag_start grid 18253.68 8835.79
+\i (00:14:55) drag_stop 19455.85 9550.59
+\e (00:14:56) Command not found: Del
+\i (00:14:57) pick grid 18609.38 9386.43
+\t (00:14:57) last pick:  18600.00 9400.00
+\i (00:14:58) pick grid 18542.68 9292.37
+\t (00:14:58) last pick:  18500.00 9300.00
+\i (00:14:58) prepopup 18611.09 9307.77
+\i (00:14:59) pop dyn_option_select @:@Delete 
+\i (00:14:59) delete 
+\i (00:14:59) generaledit 
+\i (00:15:00) prepopup 18511.90 9271.85
+\i (00:15:01) pick grid 18482.83 9307.77
+\t (00:15:01) last pick:  18500.00 9300.00
+\i (00:15:02) pick grid 17619.25 9518.10
+\t (00:15:02) last pick:  17600.00 9500.00
+\i (00:15:03) delete 
+\i (00:15:03) pick grid 18523.87 9212.00
+\t (00:15:03) last pick:  18500.00 9200.00
+\t (00:15:03) Symbol "U*"
+\i (00:15:03) pick grid 19245.52 9239.36
+\t (00:15:03) last pick:  19200.00 9200.00
+\i (00:15:06) place manual 
+\i (00:15:08) setwindow form.plc_manual
+\i (00:15:08) FORM plc_manual categories Components by refdes 
+\i (00:15:09) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\w (00:15:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:15:09) Placing IC1 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P on Top.
+\i (00:15:09) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:15:09) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:15:09) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:15:10) FORM plc_manual hide  
+\i (00:15:11) setwindow pcb
+\i (00:15:11) pick grid 18151.08 9376.17
+\t (00:15:11) last pick:  18200.00 9400.00
+\t (00:15:11) Placing IC2 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P on Top.
+\i (00:15:11) pick grid 18751.31 9379.59
+\t (00:15:11) last pick:  18800.00 9400.00
+\i (00:15:12) Esc 
+\i (00:15:12) Esc 
+\i (00:15:13) pick grid 19295.11 9396.69
+\t (00:15:13) last pick:  19300.00 9400.00
+\i (00:15:15) Esc 
+\i (00:15:16) pick grid 19081.35 9338.55
+\t (00:15:16) last pick:  19100.00 9300.00
+\i (00:15:18) pick grid 17757.77 9444.57
+\t (00:15:18) last pick:  17800.00 9400.00
+\i (00:15:18) pick grid dbl 17757.77 9444.57
+\t (00:15:18) last pick:  17800.00 9400.00
+\i (00:15:19) pick grid 18279.33 9420.63
+\t (00:15:19) last pick:  18300.00 9400.00
+\t (00:15:19) Moving IC1 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:15:19) last pick:  18200.00 9400.00
+\i (00:15:20) pick grid 18051.90 9449.70
+\t (00:15:20) last pick:  18100.00 9400.00
+\i (00:15:21) pick grid 18137.40 9388.14
+\t (00:15:21) last pick:  18100.00 9400.00
+\t (00:15:21) Moving IC1 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:15:21) last pick:  18100.00 9400.00
+\i (00:15:21) pick grid 18151.08 9388.14
+\t (00:15:21) last pick:  18200.00 9400.00
+\i (00:15:22) pick grid 18670.94 8941.81
+\t (00:15:22) last pick:  18700.00 8900.00
+\i (00:15:23) pick grid 18183.57 9365.91
+\t (00:15:23) last pick:  18200.00 9400.00
+\t (00:15:23) Moving IC1 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:15:23) last pick:  18200.00 9400.00
+\i (00:15:23) pick grid 18149.37 9365.91
+\t (00:15:23) last pick:  18100.00 9400.00
+\i (00:15:24) pick grid 18575.17 8984.56
+\t (00:15:24) last pick:  18600.00 9000.00
+\i (00:15:24) pick grid 18108.33 9367.62
+\t (00:15:24) last pick:  18100.00 9400.00
+\t (00:15:24) Moving IC1 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:15:24) last pick:  18100.00 9400.00
+\i (00:15:25) pick grid 18048.48 9362.49
+\t (00:15:25) last pick:  18000.00 9400.00
+\i (00:15:25) pick grid 18470.86 9023.90
+\t (00:15:25) last pick:  18500.00 9000.00
+\i (00:15:26) pick grid 18865.88 9295.79
+\t (00:15:26) last pick:  18900.00 9300.00
+\t (00:15:26) Moving IC2 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:15:26) last pick:  18800.00 9400.00
+\i (00:15:27) pick grid 19139.49 9352.23
+\t (00:15:27) last pick:  19100.00 9400.00
+\i (00:15:28) pick grid dbl 19144.62 9365.91
+\t (00:15:28) last pick:  19100.00 9400.00
+\t (00:15:28) Moving IC2 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:15:28) last pick:  19100.00 9400.00
+\i (00:15:28) pick grid 19151.46 9306.05
+\t (00:15:28) last pick:  19200.00 9300.00
+\i (00:15:28) pick grid 18771.83 9054.68
+\t (00:15:29) last pick:  18800.00 9100.00
+\i (00:21:16) pick grid 17807.36 8700.70
+\t (00:21:16) last pick:  17800.00 8700.00
+\i (00:21:18) pick grid 19115.55 9282.11
+\t (00:21:18) last pick:  19100.00 9300.00
+\t (00:21:18) Moving IC2 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:21:18) last pick:  19200.00 9300.00
+\i (00:21:19) pick grid 18949.68 9446.28
+\t (00:21:19) last pick:  18900.00 9400.00
+\i (00:21:19) pick grid 18099.78 8912.74
+\t (00:21:19) last pick:  18100.00 8900.00
+\i (00:21:21) pick grid 17909.96 9082.04
+\t (00:21:21) last pick:  17900.00 9100.00
+\i (00:21:21) save 
+\i (00:21:24) fillin yes 
+\i (00:21:24) generaledit 
+\i (00:21:26) drag_start grid 18882.98 9360.78
+\i (00:21:26) move 
+\t (00:21:26) last pick:  18900.00 9400.00
+\t (00:21:26) Moving IC2 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:21:27) Pick new location for the element(s).
+\i (00:21:27) drag_stop grid 19071.09 9259.88
+\i (00:21:27) generaledit 
+\i (00:21:27) drag_start grid 19071.09 9259.88
+\i (00:21:27) move 
+\t (00:21:27) last pick:  19100.00 9300.00
+\t (00:21:27) Moving IC2 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:21:27) Pick new location for the element(s).
+\i (00:21:28) drag_stop grid 19199.34 9371.04
+\i (00:21:28) generaledit 
+\i (00:21:28) drag_start grid 19183.95 9365.91
+\i (00:21:28) move 
+\t (00:21:29) last pick:  19200.00 9400.00
+\t (00:21:29) Moving IC2 / ATMEGA48-MLF32_0_MY_ATMEGA328P_ / MY_ATMEGA328P.
+\t (00:21:29) Pick new location for the element(s).
+\i (00:21:29) drag_stop grid 19230.12 9234.23
+\i (00:21:29) generaledit 
+\i (00:21:29) pick grid 18708.56 8909.32
+\t (00:21:29) last pick:  18700.00 8900.00
+\i (00:21:30) save 
+\i (00:21:31) fillin yes 
+\i (00:21:31) generaledit 
+\i (00:32:17) save 
+\i (00:32:19) fillin yes 
+\i (00:32:19) generaledit 
+\i (00:32:20) exit 
+\t (00:32:22)     Journal end - Tue Jul 16 17:13:59 2019
